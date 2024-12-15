@@ -1,4 +1,4 @@
 [core]
     remote = dvcstore
 ['remote "dvcstore"']
-    url = ../himadri-bucket3
+    url = s3://himadri-bucket3
