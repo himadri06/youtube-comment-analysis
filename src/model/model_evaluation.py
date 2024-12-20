@@ -167,8 +167,9 @@ def main():
                 input_example=input_example  # <--- Added input example
             )
 
-            # Save model info
             model_path = "lgbm_model"
+
+            # Save model info
             save_model_info(run.info.run_id, model_path, 'experiment_info.json')
 
             # Log the vectorizer as an artifact
