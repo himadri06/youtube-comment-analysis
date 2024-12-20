@@ -70,10 +70,6 @@ def register_model(model_name: str, model_info: dict):
         raise
 
 def main():
-
-    import dagshub
-    dagshub.init(repo_owner='himadri06', repo_name='youtube-comment-analysis', mlflow=True)
-    mlflow.set_tracking_uri("https://dagshub.com/himadri06/youtube-comment-analysis.mlflow")
     
     try:
         model_info_path = 'experiment_info.json'
