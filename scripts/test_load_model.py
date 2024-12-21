@@ -1,13 +1,18 @@
 import mlflow.pyfunc
 import pytest
 from mlflow.tracking import MlflowClient
+import os 
 
-import dagshub
-dagshub.init(repo_owner='himadri06', repo_name='youtube-comment-analysis', mlflow=True)
+dagshub_token = os.getenv("DAGSHUB_PAT")
+if not dagshub_token:
+    raise EnvironmentError("DAGSHUB_PAT environment variable is not set")
 
-import mlflow
+os.environ["MLFLOW_TRACKING_USERNAME"] = dagshub_token
+os.environ["MLFLOW_TRACKING_PASSWORD"] = dagshub_token
 
-mlflow.set_tracking_uri("https://dagshub.com/himadri06/youtube-comment-analysis.mlflow")
+dagshub_url = "https://dagshub.com"
+repo_owner = "himadri06"
+repo_name = "youtube-comment-analysis"
 
 @pytest.mark.parametrize("model_name, stage", [
     ("my_model", "staging"),])
