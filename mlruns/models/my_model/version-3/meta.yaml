@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734763950073
+current_stage: Production
+description: null
+last_updated_timestamp: 1734763950077
+name: my_model
+run_id: 749d90a8b64d41efa79a03ee83cdb939
+run_link: null
+source: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/749d90a8b64d41efa79a03ee83cdb939/artifacts/lgbm_model
+status: READY
+status_message: null
+storage_location: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/749d90a8b64d41efa79a03ee83cdb939/artifacts/lgbm_model
+user_id: null
+version: 3

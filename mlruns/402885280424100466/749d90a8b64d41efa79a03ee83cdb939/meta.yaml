@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/749d90a8b64d41efa79a03ee83cdb939/artifacts
+end_time: 1734763948545
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: 749d90a8b64d41efa79a03ee83cdb939
+run_name: welcoming-crab-999
+run_uuid: 749d90a8b64d41efa79a03ee83cdb939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734763938670
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
