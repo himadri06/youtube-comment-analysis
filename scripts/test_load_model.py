@@ -15,7 +15,7 @@ repo_owner = "himadri06"
 repo_name = "youtube-comment-analysis"
 
 @pytest.mark.parametrize("model_name, stage", [
-    ("my_model", "staging"),])
+    ("my_model", "Production"),])
 def test_load_latest_staging_model(model_name, stage):
     client = MlflowClient()
     
