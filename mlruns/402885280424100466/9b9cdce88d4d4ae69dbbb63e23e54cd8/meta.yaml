@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/9b9cdce88d4d4ae69dbbb63e23e54cd8/artifacts
+end_time: 1734767712323
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: 9b9cdce88d4d4ae69dbbb63e23e54cd8
+run_name: carefree-calf-889
+run_uuid: 9b9cdce88d4d4ae69dbbb63e23e54cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734767702145
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
