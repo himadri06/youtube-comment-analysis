@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/1a5519bc58a04271bd0b699647a8bb34/artifacts
+end_time: 1734765339036
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: 1a5519bc58a04271bd0b699647a8bb34
+run_name: wise-perch-59
+run_uuid: 1a5519bc58a04271bd0b699647a8bb34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734765328742
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
