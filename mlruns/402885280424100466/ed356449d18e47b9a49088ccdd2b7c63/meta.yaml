@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/ed356449d18e47b9a49088ccdd2b7c63/artifacts
+end_time: 1734767459225
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: ed356449d18e47b9a49088ccdd2b7c63
+run_name: kindly-panda-973
+run_uuid: ed356449d18e47b9a49088ccdd2b7c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734767449062
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
