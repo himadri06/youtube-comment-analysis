@@ -4,6 +4,6 @@ data_ingestion:
 model_building:
   ngram_range: [1, 3]  
   max_features: 10000
-  learning_rate: 0.09888
+  learning_rate: 0.098887
   max_depth: 18
   n_estimators: 382

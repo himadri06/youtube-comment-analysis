@@ -17,7 +17,7 @@ repo_owner = "himadri06"
 repo_name = "youtube-comment-analysis"
 
 @pytest.mark.parametrize("model_name, stage, vectorizer_path", [
-    ("my_model", "Production", "tfidf_vectorizer.pkl"),  # Replace with your actual model name and vectorizer path
+    ("my_model", "Staging", "tfidf_vectorizer.pkl"),  # Replace with your actual model name and vectorizer path
 ])
 def test_model_with_vectorizer(model_name, stage, vectorizer_path):
     client = MlflowClient()
