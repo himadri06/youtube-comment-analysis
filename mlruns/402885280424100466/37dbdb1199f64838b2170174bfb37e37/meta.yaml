@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/37dbdb1199f64838b2170174bfb37e37/artifacts
+end_time: 1734768033631
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: 37dbdb1199f64838b2170174bfb37e37
+run_name: adventurous-bug-832
+run_uuid: 37dbdb1199f64838b2170174bfb37e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734768023708
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
