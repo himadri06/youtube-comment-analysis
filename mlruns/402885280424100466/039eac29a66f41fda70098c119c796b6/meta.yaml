@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/youtube-comment-analysis/youtube-comment-analysis/mlruns/402885280424100466/039eac29a66f41fda70098c119c796b6/artifacts
+end_time: 1734762192516
+entry_point_name: ''
+experiment_id: '402885280424100466'
+lifecycle_stage: active
+run_id: 039eac29a66f41fda70098c119c796b6
+run_name: bemused-jay-109
+run_uuid: 039eac29a66f41fda70098c119c796b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734762182702
+status: 3
+tags: []
+user_id: fcdceb25c72ecb30a93a675d433e336e0c52edeb
